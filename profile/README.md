@@ -1,4 +1,4 @@
-## Next.js 스터디 Overview
+## Next.js 스터디
 
 ### 📆 스터디 일정
 
@@ -67,6 +67,19 @@
 
 ---
 
+### 👥 팀원
+
+| 이름 | GitHub 프로필 |
+| --- | --- |
+| 신유성 | [SinYusi](https://github.com/SinYusi) |
+| 정원용 | [WON YONG CHONG](https://github.com/projectmiluju) |
+| 황주경 | [H-JuKyung](https://github.com/H-JuKyung) |
+
+> ⚙️ 팀원 GitHub 프로필은 필요에 따라 자유롭게 수정 및 추가합니다.
+> 
+
+---
+
 ### 📚 참고 링크
 
 - [Next.js 공식문서](https://nextjs.org/docs)
@@ -78,4 +91,4 @@
 
 - 공식 문서를 기반으로 **Next.js의 핵심 개념을 깊이 이해하기**
 - PR, Branch 관리 등 **협업 프로세스에 익숙해지기**
-- 스터디 종료 후에는 **공식문서 요약 저장소로 활용하기**
+- 스터디 종료 후 **공식문서 요약 저장소로 활용하기**
